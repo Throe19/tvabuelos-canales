@@ -16,7 +16,10 @@
       "nombre": "Mega",
       "categoria": "Nacionales",
       "logo": "",
-      "urls": ["https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"],
+      "urls": [
+        "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/mega/mega.smil/playlist.m3u8"
+      ],
       "activo": true
     },
     {
@@ -33,6 +36,130 @@
       "categoria": "Nacionales",
       "logo": "",
       "urls": ["https://redirector.dps.live/hls/13cl/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 4,
+      "nombre": "La Red",
+      "categoria": "Otros abiertos",
+      "logo": "",
+      "urls": ["https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 5,
+      "nombre": "TV+",
+      "categoria": "Otros abiertos",
+      "logo": "",
+      "urls": [
+        "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+        "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 24,
+      "nombre": "24 Horas",
+      "categoria": "Noticias",
+      "logo": "",
+      "urls": ["https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 23,
+      "nombre": "T13 en vivo",
+      "categoria": "Noticias",
+      "logo": "",
+      "urls": [
+        "https://redirector.dps.live/hls/t13/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 22,
+      "nombre": "CHV Noticias",
+      "categoria": "Noticias",
+      "logo": "",
+      "urls": ["https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 25,
+      "nombre": "CNN Chile",
+      "categoria": "Noticias",
+      "logo": "",
+      "urls": ["https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 41,
+      "nombre": "Sextavisión",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": ["https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 42,
+      "nombre": "Uniregión TV",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": ["https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 43,
+      "nombre": "TVO San Vicente",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": ["https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 44,
+      "nombre": "Radio Rancagua",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": ["https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 51,
+      "nombre": "Bío Bío TV",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": ["https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"],
+      "activo": true
+    },
+    {
+      "numero": 52,
+      "nombre": "TVU",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": [
+        "https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8",
+        "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 53,
+      "nombre": "UCV TV",
+      "categoria": "Regionales",
+      "logo": "",
+      "urls": [
+        "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 60,
+      "nombre": "D13 Deportes",
+      "categoria": "Deportes",
+      "logo": "",
+      "urls": ["https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"],
       "activo": true
     }
   ]
