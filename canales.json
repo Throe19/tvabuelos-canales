@@ -229,6 +229,16 @@
         "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
       ],
       "activo": true
+    },
+    {
+      "numero": 65,
+      "nombre": "CRTV",
+      "categoria": "Deportes",
+      "logo": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+      "urls": [
+        "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
+      ],
+      "activo": true
     }
   ]
 }
