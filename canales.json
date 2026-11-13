@@ -137,16 +137,6 @@
       "activo": true
     },
     {
-      "numero": 44,
-      "nombre": "Radio Rancagua",
-      "categoria": "Regionales",
-      "logo": "https://i.imgur.com/ZzUc6je.png",
-      "urls": [
-        "https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8"
-      ],
-      "activo": true
-    },
-    {
       "numero": 51,
       "nombre": "Bío Bío TV",
       "categoria": "Regionales",
@@ -216,27 +206,6 @@
       "urls": [
         "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
         "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
-      ],
-      "activo": true
-    },
-    {
-      "numero": 64,
-      "nombre": "beIN Sports XTRA",
-      "categoria": "Deportes",
-      "logo": "https://i.imgur.com/V562tpO.png",
-      "urls": [
-        "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
-        "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-      ],
-      "activo": true
-    },
-    {
-      "numero": 73,
-      "nombre": "TNT Sports Premium ArgentinaHD",
-      "categoria": "Deportes",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-      "urls": [
-        "http://181.78.79.131:8000/play/a0q9"
       ],
       "activo": true
     },
