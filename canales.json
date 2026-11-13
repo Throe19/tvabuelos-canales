@@ -232,11 +232,101 @@
     },
     {
       "numero": 65,
-      "nombre": "CRTV",
+      "nombre": "CRTV (Chile)",
       "categoria": "Deportes",
-      "logo": "",
+      "logo": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
       "urls": [
         "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 66,
+      "nombre": "TNT Sports 1",
+      "categoria": "Deportes",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
+      "urls": [
+        "http://37.49.224.5/stream/1/index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 67,
+      "nombre": "TNT Sports 2",
+      "categoria": "Deportes",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",
+      "urls": [
+        "http://37.49.224.5/stream/2/index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 68,
+      "nombre": "TNT Sports 3",
+      "categoria": "Deportes",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true",
+      "urls": [
+        "http://37.49.224.5/stream/3/index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 69,
+      "nombre": "TNT Sports 4",
+      "categoria": "Deportes",
+      "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
+      "urls": [
+        "http://37.49.224.5/stream/4/index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 70,
+      "nombre": "TNT Sports (Argentina)",
+      "categoria": "Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
+      "urls": [
+        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 71,
+      "nombre": "TNT Sports (Argentina) SD",
+      "categoria": "Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
+      "urls": [
+        "http://181.78.79.131:8000/play/a0mo"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 72,
+      "nombre": "TNT Sports (Chile)",
+      "categoria": "Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png",
+      "urls": [
+        "http://209.45.101.130:8040/play/a03s/index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 73,
+      "nombre": "TNT Sports Premium ArgentinaHD",
+      "categoria": "Deportes",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "urls": [
+        "http://181.78.79.131:8000/play/a0q9"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 74,
+      "nombre": "TNT Sports Premium HD",
+      "categoria": "Deportes",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "urls": [
+        "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8"
       ],
       "activo": true
     }
