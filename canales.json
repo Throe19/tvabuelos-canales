@@ -187,6 +187,48 @@
         "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
       ],
       "activo": true
+    },
+    {
+      "numero": 61,
+      "nombre": "Teledeporte",
+      "categoria": "Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TDP_2026.svg/960px-TDP_2026.svg.png",
+      "urls": [
+        "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 62,
+      "nombre": "Real Madrid TV",
+      "categoria": "Deportes",
+      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "urls": [
+        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 63,
+      "nombre": "FIFA+",
+      "categoria": "Deportes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "urls": [
+        "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+        "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 64,
+      "nombre": "beIN Sports XTRA",
+      "categoria": "Deportes",
+      "logo": "https://i.imgur.com/V562tpO.png",
+      "urls": [
+        "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+        "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+      ],
+      "activo": true
     }
   ]
 }
