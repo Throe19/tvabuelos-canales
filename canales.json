@@ -50,6 +50,8 @@
       "categoria": "Otros abiertos",
       "logo": "https://i.imgur.com/nJOVM6e.png",
       "urls": [
+        "https://d2c6t6djasltbv.cloudfront.net/0_3/index.m3u8",
+        "https://d1mgmjtck9ynpz.cloudfront.net/0_3/index.m3u8",
         "https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8"
       ],
       "activo": true
