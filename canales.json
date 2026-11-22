@@ -212,34 +212,36 @@
       "activo": true
     },
     {
-      "numero": 91,
-      "nombre": "Prueba audio AAC",
-      "categoria": "Pruebas",
-      "logo": "",
+      "numero": 74,
+      "nombre": "TNT Sports Premium HD",
+      "categoria": "Deportes",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
       "urls": [
-        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a1/prog_index.m3u8"
+        "http://205.235.6.29:8000/play/a104/index.m3u8"
       ],
-      "activo": false
+      "activo": true
     },
     {
-      "numero": 92,
-      "nombre": "Prueba audio AC-3",
-      "categoria": "Pruebas",
+      "numero": 75,
+      "nombre": "TNT Sports Chile",
+      "categoria": "Deportes",
       "logo": "",
       "urls": [
-        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a2/prog_index.m3u8"
+        "http://205.235.6.29:8000/play/a0xa/index.m3u8",
+        "http://209.45.101.130:8040/play/a03s/index.m3u8"
       ],
-      "activo": false
+      "activo": true
     },
     {
-      "numero": 93,
-      "nombre": "Prueba audio E-AC-3",
-      "categoria": "Pruebas",
+      "numero": 76,
+      "nombre": "TNT Sports Argentina",
+      "categoria": "Deportes",
       "logo": "",
       "urls": [
-        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a3/prog_index.m3u8"
+        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8",
+        "http://181.78.79.131:8000/play/a0mo"
       ],
-      "activo": false
+      "activo": true
     }
   ]
 }
