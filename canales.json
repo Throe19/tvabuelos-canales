@@ -212,22 +212,32 @@
       "activo": true
     },
     {
-      "numero": 64,
-      "nombre": "Prueba+",
-      "categoria": "prueba",
+      "numero": 91,
+      "nombre": "Prueba audio AAC",
+      "categoria": "Pruebas",
       "logo": "",
       "urls": [
-        "http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multichannel_subs.m3u8"
+        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a1/prog_index.m3u8"
       ],
       "activo": true
     },
     {
-      "numero": 65,
-      "nombre": "Prueba2",
-      "categoria": "prueba",
+      "numero": 92,
+      "nombre": "Prueba audio AC-3",
+      "categoria": "Pruebas",
       "logo": "",
       "urls": [
-        "https://videolan.org"
+        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a2/prog_index.m3u8"
+      ],
+      "activo": true
+    },
+    {
+      "numero": 93,
+      "nombre": "Prueba audio E-AC-3",
+      "categoria": "Pruebas",
+      "logo": "",
+      "urls": [
+        "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a3/prog_index.m3u8"
       ],
       "activo": true
     }
