@@ -219,7 +219,7 @@
       "urls": [
         "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a1/prog_index.m3u8"
       ],
-      "activo": true
+      "activo": false
     },
     {
       "numero": 92,
@@ -229,7 +229,7 @@
       "urls": [
         "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a2/prog_index.m3u8"
       ],
-      "activo": true
+      "activo": false
     },
     {
       "numero": 93,
@@ -239,7 +239,7 @@
       "urls": [
         "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/a3/prog_index.m3u8"
       ],
-      "activo": true
+      "activo": false
     }
   ]
 }
